@@ -1,0 +1,12 @@
+{
+:paths ["src" "test" "resources" "classes"]
+:hello "this is an edn format file"
+:project/description "We use the brackets to declare a map, which is a collection of keys and values pair"
+:sample-map {:this-is-a-map-key "this is a map-value"}
+}
+
+
+;; I'm done writing in nano, lets use an IDE from here on! Bye nanoooooo :(
+
+
+;; We need to choose a version of java for Intellij interpret the code.
